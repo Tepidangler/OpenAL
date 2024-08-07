@@ -1,0 +1,317 @@
+﻿  auxeffectslot.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\auxeffectslot.cpp(464,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\auxeffectslot.cpp(519,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\auxeffectslot.cpp(579,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\auxeffectslot.cpp(629,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  buffer.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\buffer.cpp(1099,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\buffer.cpp(1119,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\buffer.cpp(1140,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\buffer.cpp(1222,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\buffer.cpp(1296,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\buffer.cpp(1317,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\buffer.cpp(1345,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\buffer.cpp(1423,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\buffer.cpp(1547,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\buffer.cpp(1575,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  effect.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  error.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  event.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\event.cpp(189,36): warning C4858: discarding return value: A lock should be stored in a variable to protect the scope. If you're intentionally constructing a temporary to protect the rest of the current expression using the comma operator, you can cast the temporary to void or define _SILENCE_NODISCARD_LOCK_WARNINGS to suppress this warning.
+  extension.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  filter.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  listener.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\listener.cpp(170,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\listener.cpp(193,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\listener.cpp(232,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\listener.cpp(348,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  source.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  state.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\state.cpp(497,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\state.cpp(530,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\state.cpp(563,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\state.cpp(596,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\state.cpp(629,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\al\state.cpp(656,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  alc.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  alconfig.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\logging.h(11,2): warning C5030: attribute [[gnu::format]] is not recognized
+  alu.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  ambdec.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\logging.h(11,2): warning C5030: attribute [[gnu::format]] is not recognized
+  base.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\backends\base.h(87,6): warning C5030: attribute [[gnu::format]] is not recognized
+  dsound.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\backends\base.h(87,6): warning C5030: attribute [[gnu::format]] is not recognized
+  loopback.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\backends\base.h(87,6): warning C5030: attribute [[gnu::format]] is not recognized
+  null.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\backends\base.h(87,6): warning C5030: attribute [[gnu::format]] is not recognized
+  wasapi.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\backends\base.h(87,6): warning C5030: attribute [[gnu::format]] is not recognized
+  wave.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\backends\base.h(87,6): warning C5030: attribute [[gnu::format]] is not recognized
+  Generating Code...
+  Compiling...
+  winmm.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\backends\base.h(87,6): warning C5030: attribute [[gnu::format]] is not recognized
+  bformatdec.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  bs2b.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+  converter.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  cpu_caps.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\logging.h(11,2): warning C5030: attribute [[gnu::format]] is not recognized
+  autowah.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  chorus.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  compressor.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  dedicated.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  distortion.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  echo.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  equalizer.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  fshifter.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  modulator.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  pshifter.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  reverb.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  vmorpher.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+  biquad.cpp
+  nfc.cpp
+  splitter.cpp
+  Generating Code...
+  Compiling...
+  fpu_ctrl.cpp
+  helpers.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\logging.h(11,2): warning C5030: attribute [[gnu::format]] is not recognized
+  hrtf.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\logging.h(11,2): warning C5030: attribute [[gnu::format]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\hrtf.cpp(974,24): warning C4834: discarding return value of function with [[nodiscard]] attribute
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\hrtf.cpp(1009,24): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  mastering.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  mixer_c.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  mixer_sse.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  mixer_sse2.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  mixer_sse3.cpp
+  mixer_sse41.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  panning.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\panning.cpp(811,14): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  ringbuffer.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+  uhjfilter.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+  uiddefs.cpp
+  voice.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\alu.h(148,2): warning C5030: attribute [[gnu::format]] is not recognized
+  alcomplex.cpp
+  alexcpt.cpp
+  alfstream.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+  almalloc.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+  alstring.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+  bsinc_tables.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+  Generating Code...
+  Compiling...
+  dynload.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+  polyphase_resampler.cpp
+  strutils.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+  threads.cpp
+  Generating Code...
+  null.cpp
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_align]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(16,2): warning C5030: attribute [[gnu::alloc_size]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\common\almalloc.h(88,6): warning C5030: attribute [[gnu::assume_aligned]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\base.h(131,6): warning C5030: attribute [[gnu::format]] is not recognized
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\null.cpp(73,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\null.cpp(81,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\null.cpp(90,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\null.cpp(98,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\null.cpp(108,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\null.cpp(116,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\null.cpp(125,5): warning C4065: switch statement contains 'default' but no 'case' labels
+D:\AGE\AGE\Engine\libs\vendor\OpenAL\src\alc\effects\null.cpp(133,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  OpenAL.vcxproj -> D:\AGE\AGE\Engine\libs\vendor\OpenAL\bin\Debug-windows-x86_64\OpenAL\OpenAL.lib

@@ -10,6 +10,7 @@ project "OpenAL"
 	includedirs
 	{
 		"src",
+		"src/al",
 		"src/alc",
 		"src/common",
 		"include",
@@ -18,6 +19,7 @@ project "OpenAL"
 
 	files
 	{
+		"include/alhelpers.cpp",
 		"src/**.h",
 		"src/**.cpp"
 	}

@@ -1,0 +1,32 @@
+# Binaries
+**/bin/
+bin-int/
+Intermediates/
+
+# AGE files
+*.log
+AGEProfiles*.json
+
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+
+Engine/libs/vendor/vulkan/Lib/shaderc_combinedd.lib
+Engine/libs/vendor/vulkan/Lib/shaderc_sharedd.lib
+Engine/libs/vendor/vulkan/Lib/shaderc_utild.lib
+Engine/libs/vendor/vulkan/Lib/SPIRV-Tools-optd.lib
+
+**.wav
+**.AGEproject
+**.AGEScene
+**.png
+
+*.tsx
+*.tiled-project
+*.tiled-session
+*.tmx
